@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AsquareMovies/static/css/main.e6c13ad2.css",
+    "main.js": "/AsquareMovies/static/js/main.9732eb85.js",
+    "static/js/787.5d5ea81f.chunk.js": "/AsquareMovies/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/AsquareMovies/index.html",
+    "main.e6c13ad2.css.map": "/AsquareMovies/static/css/main.e6c13ad2.css.map",
+    "main.9732eb85.js.map": "/AsquareMovies/static/js/main.9732eb85.js.map",
+    "787.5d5ea81f.chunk.js.map": "/AsquareMovies/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9732eb85.js"
+  ]
+}
